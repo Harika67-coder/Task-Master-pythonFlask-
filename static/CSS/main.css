@@ -1,0 +1,14 @@
+body{
+  margin:0;
+  font-family:Arial;
+}
+div{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  flex-direction:column;
+}
+table{
+  margin-bottom:20px;
+  width:400px;
+}
